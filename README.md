@@ -45,7 +45,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution](https://github.com/marko-zivanic/AgeCalculator)
-- Live Site URL: [Live](https://marko-zivanic.github.io/AgeCalculator/)
+- Live Site URL: [Live](https://marko-zivanic.github.io/AgeCalculator/Prototype/index.html)
 
 ## My process
 
